@@ -147,5 +147,3 @@ class PhtmlQuery extends Phtml {
 ```
 That class allowed me to fetch the `body` section of the HTML document and add some inner elements, just like any web site does.
 If you would like to develop that jQuery like extending class, feel absolutely free to do.
-
-I hope this may be useful to you.
